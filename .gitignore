@@ -1,0 +1,37 @@
+# Node modules
+node_modules/
+
+# Cypress cache
+.cypress/
+
+# Cypress screenshots
+cypress/screenshots/
+
+# Cypress videos
+cypress/videos/
+
+# Логи
+logs/
+*.log
+
+# Файлы конфигурации
+cypress.json
+cypress.env.json
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Папки сборки
+dist/
+build/
+
+# Файлы окружения
+.env
+.env.local
+.env.*.local
+
+# Другие временные файлы
+*.tmp
+*.temp
+
